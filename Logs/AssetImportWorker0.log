@@ -16,7 +16,10 @@ C:/Users/esmith5/Downloads/GitHub_Unity/FinalFixed
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 61325
@@ -24,6 +27,7 @@ Successfully changed project path to: C:/Users/scalderon/Desktop/Github/FinalFix
 C:/Users/scalderon/Desktop/Github/FinalFixed
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 107.84 ms, found 3 plugins.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -40,6 +44,8 @@ Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 44.83 ms, found 3 plugins.
 >>>>>>> 392baf9422806234a0a26e3a50755a2feae2cbdf
 >>>>>>> 2e31eed7eaa4d125d8a65ef55474e154c4b800e7
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -63,6 +69,7 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Registered in 0.012155 seconds.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 122.89 ms, found 3 plugins.
@@ -108,6 +115,8 @@ Domain Reload Profiling:
 >>>>>>> 392baf9422806234a0a26e3a50755a2feae2cbdf
 >>>>>>> 2e31eed7eaa4d125d8a65ef55474e154c4b800e7
 =======
+=======
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 122.89 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -116,13 +125,19 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (4411ms)
 		BeginReloadAssembly (260ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 			CreateAndSetChildDomain (2ms)
@@ -140,6 +155,7 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (56ms)
 				ProcessInitializeOnLoadAttributes (411ms)
 				ProcessInitializeOnLoadMethodAttributes (139ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -178,6 +194,8 @@ Domain Reload Profiling:
 >>>>>>> 2e31eed7eaa4d125d8a65ef55474e154c4b800e7
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
@@ -185,7 +203,10 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Registered in 0.013949 seconds.
@@ -200,6 +221,7 @@ Domain Reload Profiling:
 		BeginReloadAssembly (515ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (12ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
@@ -265,6 +287,19 @@ Domain Reload Profiling:
 			RebuildScriptCaches (217ms)
 			SetupLoadedEditorAssemblies (1232ms)
 				LogAssemblyErrors (0ms)
+=======
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (59ms)
+		EndReloadAssembly (3335ms)
+			LoadAssemblies (479ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1088ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (217ms)
+			SetupLoadedEditorAssemblies (1232ms)
+				LogAssemblyErrors (0ms)
+>>>>>>> Stashed changes
 				InitializePlatformSupportModulesInManaged (15ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (139ms)
@@ -272,6 +307,9 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (822ms)
 				ProcessInitializeOnLoadMethodAttributes (22ms)
 				AfterProcessingInitializeOnLoad (16ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -280,7 +318,10 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
@@ -333,6 +374,7 @@ Received Import Request.
   artifactKey: Guid(2fca34f3cbd059e4a8748e12221f8cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/rainbow sprite.png using Guid(2fca34f3cbd059e4a8748e12221f8cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84dde4ddd0f4e9b9d39f139e9053e63e') in 0.121611 seconds 
   Import took 0.146734 seconds .
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
@@ -597,6 +639,10 @@ Total: 3.002900 ms (FindLiveObjects: 0.182600 ms CreateObjectMapping: 0.077200 m
 =======
 
 ========================================================================
+=======
+
+========================================================================
+>>>>>>> Stashed changes
 Received Import Request.
   Time since last request: 0.000571 seconds.
   path: Assets/nyancat-spritesheet.gif
@@ -619,6 +665,7 @@ Received Import Request.
   artifactKey: Guid(0c198c8fcdc28474cae3d4fc9c10c7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/rainbow sprite.prefab using Guid(0c198c8fcdc28474cae3d4fc9c10c7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc48a4dccfb5eb8db17fbb14b6b060a') in 0.017342 seconds 
   Import took 0.023557 seconds .
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 
 ========================================================================
@@ -782,6 +829,28 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
 =======
+=======
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Meteor1.png
+  artifactKey: Guid(013cd8729ee75f742bc80e850345f89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meteor1.png using Guid(013cd8729ee75f742bc80e850345f89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8389402053709105693aae49b6b1373e') in 0.019710 seconds 
+  Import took 0.027980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/rainbow sprite.prefab
+  artifactKey: Guid(0c198c8fcdc28474cae3d4fc9c10c7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rainbow sprite.prefab using Guid(0c198c8fcdc28474cae3d4fc9c10c7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc48a4dccfb5eb8db17fbb14b6b060a') in 0.026315 seconds 
+  Import took 0.034186 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+>>>>>>> Stashed changes
 Registered in 0.017156 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -817,12 +886,16 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (33ms)
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2086 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 96.7 MB.
 System memory in use after: 96.8 MB.
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2574.
 Total: 9.028100 ms (FindLiveObjects: 0.397300 ms CreateObjectMapping: 0.176100 ms MarkObjects: 8.398100 ms  DeleteObjects: 0.053500 ms)
@@ -970,6 +1043,8 @@ AssetImportWorkerClient::OnTransportError - code=2 error=End of file
 >>>>>>> 392baf9422806234a0a26e3a50755a2feae2cbdf
 >>>>>>> 2e31eed7eaa4d125d8a65ef55474e154c4b800e7
 =======
+=======
+>>>>>>> Stashed changes
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2571.
 Total: 4.939600 ms (FindLiveObjects: 0.365900 ms CreateObjectMapping: 0.180700 ms MarkObjects: 4.341300 ms  DeleteObjects: 0.049400 ms)
 
@@ -1015,4 +1090,7 @@ Received Import Request.
 Start importing Assets/Scenes/mainmenu.unity using Guid(cf6ef2d616211754fb8634e6075381b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ba499a793663005e36104912807d38') in 0.005093 seconds 
   Import took 0.010403 seconds .
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
