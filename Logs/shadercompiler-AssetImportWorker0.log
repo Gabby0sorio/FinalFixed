@@ -1,6 +1,7 @@
-Base path: 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 
+<<<<<<< Updated upstream
 Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
 
 Quitting shader compiler process
@@ -21,3 +22,5 @@ Cmd: compileSnippet
 >>>>>>> 392baf9422806234a0a26e3a50755a2feae2cbdf
 >>>>>>> 2e31eed7eaa4d125d8a65ef55474e154c4b800e7
 >>>>>>> ebc3ed073087522b66d075307c180ae17b45fc6d
+=======
+>>>>>>> Stashed changes
