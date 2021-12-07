@@ -1461,7 +1461,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   segmentPrefab: {fileID: 5823784296319509448, guid: 0c198c8fcdc28474cae3d4fc9c10c7c4, type: 3}
   direction: {x: 1, y: 0}
-  initialSize: 1
+  initialSize: 2
 --- !u!50 &1911210941
 Rigidbody2D:
   serializedVersion: 4
