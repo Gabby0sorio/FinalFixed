@@ -53,12 +53,11 @@
     <UnityVersion>2020.3.16f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Obstacles.cs" />
     <Compile Include="Assets\Snake.cs" />
+    <Compile Include="Assets\Obstcles2.cs" />
     <Compile Include="Assets\Food.cs" />
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\PauseMenu.cs" />
-    <Compile Include="Assets\Obstcles2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
